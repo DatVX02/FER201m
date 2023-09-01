@@ -1,0 +1,25 @@
+
+.image-detail{
+    text-align: center;
+    margin-top: 100px;
+    cursor: pointer;
+}
+
+.imageDetail{
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.title-detail{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.film-details{
+    margin-left: 3%;
+    
+}
+.film-description{
+    margin-bottom: 10px;
+}

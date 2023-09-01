@@ -1,0 +1,37 @@
+.container{
+    width: 100%;
+}
+
+
+.col{
+    display: block;
+    background-color: rgba(123, 122, 122, 0.485);
+    position: relative;
+    width: max-content;
+    /* top:10px; */
+    left: 110px;
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px ;
+    margin-bottom: 10px;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: medium;
+}
+
+
+.col img{
+    max-width: 400px;
+    max-height: 810px;
+}
+
+/* .col button{
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 2px;
+} */
+
